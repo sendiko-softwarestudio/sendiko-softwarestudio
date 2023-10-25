@@ -1,4 +1,4 @@
-![Alt text](<Logo%20Sendiko.png>)
+![Alt text](<logo and text hite.png>)
 
 ## Welcome to Sendiko Software Studio Github Accounts!
 
