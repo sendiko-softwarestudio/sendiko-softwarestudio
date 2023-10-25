@@ -1,4 +1,7 @@
-### Hi there 👋
+## Welcome to Sendiko Software Studio Github Accounts!
+
+#### We make softwares, like we make ourlives.
+
 
 <!--
 **sendiko-softwarestudio/sendiko-softwarestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
