@@ -28,5 +28,5 @@ At Sendiko Software Studio, we believe that everyone deserves access to high-qua
 
 <!-- 
 Image by <a href="https://www.freepik.com/free-vector/organic-flat-customer-support-illustration_13184987.htm#query=services&position=14&from_view=search&track=sph">Freepik</a>
-
+Logo Design by @fauziill.task on Insta!
 -->
